@@ -11,4 +11,49 @@ Much evidence suggests that the gut microbiome influences animal behaviour. Neve
 ![BeHo treatments](https://github.com/Santos-Bay/BeHo_Mice_Luisa_PhD_Study/assets/60342549/e904d1e1-83be-4ac8-ad84-70f3e764e2c2)
 
 ## Objectives 
+1. To reveal if/how the gut microbiome affects dominance in mice:
+      * How’s the dominance hierarchy?
+      * Are there other factors than the gut microbiome and planned treatments that affect dominance?
+      * Does sex matter?
+      * Does age matter?
+      * Weight?
+      * Phenotype (fur color)?
+      * Crate?
+2. To infer if changes in temperature affect dominance in mice via the gut microbiome
+3. To assess if a change of diet that’s tryptophan depleted can influence dominance via the gut microbiome
+4. To evaluate if antibiotics can modify dominance in mice via the gut microbiome
+5. To determine if fecal microbiota transplantations can change the hierarchy of dominance within a cage via the gut (microbiomes)
+   
+## Hypotheses
+The main hypothesis of my PhD thesis is:
+Null hypothesis: The gut microbiomes of the mice have no effect on dominance
+Alternative hypothesis: The gut microbiomes of the mice have an effect on dominance
+I have subhypotheses as well, but they are not shared here.
+
+## Experimental setup
+Experimental setup
+We have a real-time experimental schedule of the BeHo 2020 study at ZiBA that shows how the experiment was conducted. I will below write about the experiment.
+
+The experiment lasted 14 weeks in total. From Sep 7th to Dec 16th 2020.
+The mice were 4 weeks upon arrival and thus, 18 weeks when euthanized.
+
+We have 80 mice. 40 males and 40 females. 5 per cage. Two control cages (one per sex): Cage 4 (male) and 13 (female).
+
+The mice were exposed to five different treatments: Heat, cold, diet, antibiotics and FMT. Between each treatment, the mice had five rest days.
+
+The experiment was designed by Antton Alberdi, Ostaizka Aizpurua, Adam Koziol and me (Luisa Nielsen). If you want a thorough description of the study design and proceduces, ask Luisa Nielsen for this. We want to test the role of the gut microbiota in dominance in mice under the influence of five different biological factors referred to as treatments. We believe that one of the the main drivers behind dominance is the gut microbiota. We were therefore very focussed on frequently collecting fecal samples to identify potential changes in the gut microbiota. We also collected many other samples here among fur and organs. We aimed to collect blood as well to e.g. measure the cholestorol levels, but this was unfortunately not possible. We measured the dominance by using a tube test. The mice were tested in the acclimation and the five treatments. The tube test consisted usually of three consecutive days (= three replicates) testing the mice dominance within cages. Besides the tube test, we also measured the mice behaviour, specifically activity/movement, using an antenna system. However, this data will most likely not be included in my PhD. 
+
+We took lab/experimental notes every day of the experiment. Thus, the daily details of the experiment can be tacked there. For example, we had a lot of aggression in cage 1, which was written about. We also have an Airtable called “Behavioural Hologenomics” where much information about the experiment can be found as well.
+
+Below I’ve written information for each relevant (chronological) step of the experiment:
+
+Arrival: The mice arrived Sep 7th 2023 in eight crates. They were randomisation within sex to distribute them into cages without any potential bais. The mice were weighted before transferring them into their corresponding cages. A few days after arrival the mice were tagged, so we could identify each of them.
+Acclimation: The mice were acclimated for 4 weeks, before the first treatment (heat) began. This was to make sure that the animals were not stressed when starting the experiment and also to test procedures such as the tube test (very importantly). Acclimation was a temperature at 24 degrees celsius.
+Rest period: The mice had five days of rest between each treatment. A rest day means that the mice were undisturbed (no handling of the mice). Also during the acclimation they had rest days, where we did not handle the mice.
+Heat: The mice were exposed to 34 degrees celsius for 12 days. The mice were tube tested day 10, 11 and 12.
+Cold: The mice were exposed to 14 degrees celsius for 12 days. The mice were tube tested day 10, 11 and 12.
+Diet: The mice had a diet that was depleted of tryptophan 8 days. The mice were tube tested day 6, 7 and 8.
+Antibiotics: The mice got antibiotics and antifungals via oral gavaging daily for day 1-5. The mice were tube tested day 6, 7 and 8. The duration of this treatment was thus 8 days.
+FMT: The mice got FMT via oral gavaging day 1 and day 2. The fecal matter stored in glycerol was collected Nov 11th 2020 from the classified “super-donor-cages”. You can read more about it (and the other procedures) here. The “accumulative wins used for FMT” in the “Mice-full-overview.csv” file show the number of wins per mouse for all tube tests performed right before the FMT treatment began. We used this to evaluate the dominance hierachy per cage to then decide who should receive FMT from who.
+Euthanization: The mice were euthanized if suffering following the European Union EFSA guidelines. Thus, a few mice died before the experiment ended (C8 mouse 3065, C16 mouse 3183, C7 mouse 2730, C3 mouse 3083, C1 mouse 4176). Once euthanized organs were collected such as the gut and brain. However, these organs are not a part of my thesis.
 
