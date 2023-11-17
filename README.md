@@ -63,14 +63,14 @@ Diet: The mice had a diet that was depleted of tryptophan 8 days. The mice were 
 
 Antibiotics: The mice got antibiotics and antifungals via oral gavaging daily for day 1-5. The mice were tube tested day 6, 7 and 8. The duration of this treatment was thus 8 days.
 
-FMT: The mice got FMT via oral gavaging day 1 and day 2. The fecal matter stored in glycerol was collected Nov 11th 2020 from the classified “super-donor-cages”. You can read more about it (and the other procedures) here. The “accumulative wins used for FMT” in the “Mice-full-overview.csv” file show the number of wins per mouse for all tube tests performed right before the FMT treatment began. We used this to evaluate the dominance hierachy per cage to then decide who should receive FMT from who.
+FMT: The mice got FMT via oral gavaging day 1 and day 2. The fecal matter stored in glycerol was collected Nov 11th 2020 from the classified “super-donor-cages”. The accumulative wins used for FMT is the number of wins per mouse for all tube tests performed right before the FMT treatment began. We used this to evaluate the dominance hierachy per cage to then decide who should receive FMT from who.
 
 Euthanization: The mice were euthanized if suffering following the European Union EFSA guidelines. Thus, a few mice died before the experiment ended (C8 mouse 3065, C16 mouse 3183, C7 mouse 2730, C3 mouse 3083, C1 mouse 4176). Once euthanized organs were collected such as the gut and brain. However, these organs are not a part of my thesis.
 
 ## Sequencing techniques applied
 We have two sequencing techniques applied in BeHo:
 * Metagenomics (short-read 150bp DNA sequencing)
-* Host Genomics (long-read DNA sequencing)
+* Host Genomics (long-read PacBio DNA sequencing)
 
 ## Sample datasset
 Thus, we have two datasets in BeHo:
