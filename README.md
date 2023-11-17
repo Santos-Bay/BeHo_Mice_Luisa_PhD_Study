@@ -50,7 +50,7 @@ Below I’ve written information for each relevant (chronological) step of the e
 Arrival: The mice arrived Sep 7th 2023 in eight crates. They were randomisation within sex to distribute them into cages without any potential bais. The mice were weighted before transferring them into their corresponding cages. A few days after arrival the mice were tagged, so we could identify each of them.
 Acclimation: The mice were acclimated for 4 weeks, before the first treatment (heat) began. This was to make sure that the animals were not stressed when starting the experiment and also to test procedures such as the tube test (very importantly). Acclimation was a temperature at 24 degrees celsius.
 Rest period: The mice had five days of rest between each treatment. A rest day means that the mice were undisturbed (no handling of the mice). Also during the acclimation they had rest days, where we did not handle the mice.
-Heat: The mice were exposed to 34 degrees celsius for 12 days. The mice were tube tested day 10, 11 and 12.
+🔥 Heat: The mice were exposed to 34 degrees celsius for 12 days. The mice were tube tested day 10, 11 and 12.
 Cold: The mice were exposed to 14 degrees celsius for 12 days. The mice were tube tested day 10, 11 and 12.
 Diet: The mice had a diet that was depleted of tryptophan 8 days. The mice were tube tested day 6, 7 and 8.
 Antibiotics: The mice got antibiotics and antifungals via oral gavaging daily for day 1-5. The mice were tube tested day 6, 7 and 8. The duration of this treatment was thus 8 days.
