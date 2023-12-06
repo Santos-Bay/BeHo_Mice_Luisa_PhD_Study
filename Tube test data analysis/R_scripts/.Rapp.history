@@ -1,1 +1,0 @@
-chart.Correlation(plotting_all_matrix[,c(3:8)], histogram=TRUE, pch=19)
