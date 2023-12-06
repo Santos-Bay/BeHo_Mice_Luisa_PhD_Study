@@ -160,7 +160,7 @@ names(sorted_merged)[6] <- "Win_Loss_Binomial"
 sorted_merged$RowNumber <- NULL
 sorted_merged$Row_Number <- 1:nrow(sorted_merged)
 head(sorted_merged)
-write.csv(sorted_merged,"~/Documents/PhD 2020/BeHo:ZiBA study/Data analysis/Tube test data analysis/R_input_files/binomial_tube_test_tesults_21112023.csv", row.names = FALSE)
+#write.csv(sorted_merged,"~/Documents/PhD 2020/BeHo:ZiBA study/Data analysis/Tube test data analysis/R_input_files/binomial_tube_test_results_05122023.csv", row.names = FALSE)
 
 ######### Codes NOT working but could be useful for later ############
 
