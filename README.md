@@ -1,6 +1,6 @@
 # BeHo_Mice_Luisa_PhD_Study
 
-I'm a PhD candidate at the University of Copenhagenm, Center for Evolutionary Hologenomics. My PhD is atm entitled "The bugs and behaviours of animals – Hologenomics as a tool for studying the role of the gut microbiota in mammalian behaviour". The main aim of PhD thesis is to investigate how/if the gut microbiome influences animal behaviour using a hologenomic approach. I have two research studies in my PhD to assess this and they are called:
+I'm a PhD candidate at the University of Copenhagen, Center for Evolutionary Hologenomics. My PhD is atm entitled "The bugs and behaviours of animals – Hologenomics as a tool for studying the role of the gut microbiota in mammalian behaviour". The main aim of PhD thesis is to investigate how/if the gut microbiome influences animal behaviour using a hologenomic approach. I have two research studies in my PhD to assess this and they are called:
 1. Fox study (alias: behavioural fox study, fox project)
 2. Mice study (alias: BeHo study, BeHo project, behavioural hologenomics mice study)
 
